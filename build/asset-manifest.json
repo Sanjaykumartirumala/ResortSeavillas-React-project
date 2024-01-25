@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Resort_sea_villas/static/css/main.1652fd87.css",
+    "main.js": "/Resort_sea_villas/static/js/main.7a98df8a.js",
+    "static/media/bedroom1.jpg": "/Resort_sea_villas/static/media/bedroom1.27233a51f81ccecd2a61.jpg",
+    "static/media/home9.jpg": "/Resort_sea_villas/static/media/home9.b737bb90a271711e8469.jpg",
+    "static/media/veiw.jpg": "/Resort_sea_villas/static/media/veiw.2cedb834664a404c409f.jpg",
+    "static/media/bar2.jpg": "/Resort_sea_villas/static/media/bar2.653b00193e1ec3019388.jpg",
+    "static/media/varndasiting.jpg": "/Resort_sea_villas/static/media/varndasiting.8d033c53cd7a39ef8054.jpg",
+    "static/media/personalswimmingpool2.jpg": "/Resort_sea_villas/static/media/personalswimmingpool2.0471650dbcf09910d369.jpg",
+    "static/media/foodback.jpg": "/Resort_sea_villas/static/media/foodback.a932ce5f14ed7cf68a6e.jpg",
+    "static/media/home2.jpg": "/Resort_sea_villas/static/media/home2.9d75425e9fc06fa89c4b.jpg",
+    "static/media/home1.jpg": "/Resort_sea_villas/static/media/home1.34b172ccbd618214e5f6.jpg",
+    "static/media/resortroomm2.jpg": "/Resort_sea_villas/static/media/resortroomm2.6cb3b04d3640d474c503.jpg",
+    "static/media/home4.jpg": "/Resort_sea_villas/static/media/home4.da732405b5e737ea0d09.jpg",
+    "static/media/booking.jpg": "/Resort_sea_villas/static/media/booking.9522a08604fab1e8c125.jpg",
+    "static/media/banner-img.jpg": "/Resort_sea_villas/static/media/banner-img.b85e0361812c11fe788a.jpg",
+    "static/media/img2.jpg": "/Resort_sea_villas/static/media/img2.8409d478f60a08a73404.jpg",
+    "static/media/img3.jpg": "/Resort_sea_villas/static/media/img3.f3fa12e82110376418a2.jpg",
+    "index.html": "/Resort_sea_villas/index.html",
+    "main.1652fd87.css.map": "/Resort_sea_villas/static/css/main.1652fd87.css.map",
+    "main.7a98df8a.js.map": "/Resort_sea_villas/static/js/main.7a98df8a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1652fd87.css",
+    "static/js/main.7a98df8a.js"
+  ]
+}

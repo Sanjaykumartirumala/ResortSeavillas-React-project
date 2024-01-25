@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Ballet:opsz@16..72&family=Dancing+Script:wght@700&family=Noto+Serif+Yezidi:wght@600&display=swap');
+.home-page {
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  position: relative;
+}
+
+.background-image {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  background-size: cover;
+  background-position: center;
+  transition: opacity 1s ease-in-out;
+}
+
+.background-image-1 {
+  background-image: url('../src/images/home1.jpg'); /* Replace with your image path */
+}
+
+.background-image-2 {
+  background-image: url('../src/images/home2.jpg'); /* Replace with your image path */
+}
+
+.background-image-3 {
+  background-image: url('../src/images/home4.jpg'); /* Replace with your image path */
+}
+
+.background-image-4 {
+  background-image: url('../src/images/home9.jpg'); /* Replace with your image path */
+}
+
+.transparent-navbar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 15px 0; /* Add padding as needed */
+  box-sizing: border-box;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 2; /* Ensure the navbar is above the background image */
+}
+/* Add styles for the button */
+
+.company-name {
+  font-size: 24px;
+  margin-left: 40px; /* Adjust the left margin as needed */
+  color: #fff; /* Text color */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Optional text shadow */
+}
+.company-name a{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  text-decoration: none;
+}
+
+.navbar-content {
+  margin-right: 20px; /* Adjust the right margin as needed */
+  font-family: 'Dancing Script', cursive;
+  font-family: 'Noto Serif Yezidi', serif;
+}
+
+.navbar-content a {
+  align-items: right;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: #fff;
+  text-decoration: none;
+  margin-left: 50px; /* Adjust the left margin between links */
+  font-size: 16px;
+  transition: color 0.3s; /* Smooth color transition on hover */
+}
+.navbar-content  {
+  align-items: right;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: #fff;
+  text-decoration: none;
+  margin-left: 50px; /* Adjust the left margin between links */
+  font-size: 16px;
+  transition: color 0.3s; /* Smooth color transition on hover */
+}
+.navbar-content a:hover {
+  color: #ffcc00; /* Change the color on hover */
+}
+.sea-villas {
+  font-family: 'Ballet', cursive;
+  font-family: 'Dancing Script', cursive;
+  position: absolute;
+  top: 150px; /* Adjust the top position as needed */
+  left: 60px; /* Adjust the left position as needed */
+  font-size: 100px; /* Adjust the font size as needed */
+  color: #fff; /* Text color */
+  text-shadow: 2px 2px 7px rgba(1, 1, 2, 5); /* Optional text shadow */
+}
